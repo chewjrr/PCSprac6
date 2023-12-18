@@ -628,10 +628,10 @@ class Task_1
             double percentageOfWorkingEmployees = totalEmployeesInCompany == 0 ? 0 : (double)employeesInDepartment / totalEmployeesInCompany * 100;
 
             Console.WriteLine($"Отдел: {departmentName}");
-            Console.WriteLine($"Количество работающих сотрудников в отделе: {employeesInDepartment}");
-            Console.WriteLine($"Общее количество сотрудников в отделе: {totalEmployeesInDepartment}");
+            Console.WriteLine($"Количество сотрудников: {employeesInDepartment}");
+            Console.WriteLine($"Общее количество сотрудников: {totalEmployeesInDepartment}");
             Console.WriteLine($"Список должностей: {string.Join(", ", department.Select(r => r.Element("Название_должности").Value))}");
-            Console.WriteLine($"Доля работающих сотрудников в отделе от общего числа сотрудников в компании: {percentageOfWorkingEmployees:F2}%");
+            Console.WriteLine($"Доля сотрудников в отделе от общего числа сотрудников в компании: {percentageOfWorkingEmployees:F2}%");
             Console.WriteLine();
         }
     }
@@ -753,8 +753,8 @@ class Task_1
 
             XElement departmentXml = new XElement("Отдел",
                 new XAttribute("Название", departmentName),
-                new XElement("Количество_работающих_сотрудников", workingEmployeesCount),
-                new XElement("Количество_работающих_сотрудников_молодежь", youngEmployeesCount)
+                new XElement("Количество сотрудников", workingEmployeesCount),
+                new XElement("Количество сотрудников(молодые)", youngEmployeesCount)
             );
 
             departmentsXml.Add(departmentXml);
