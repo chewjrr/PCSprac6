@@ -1,0 +1,14 @@
+C:\Users\miron\source\repos\prac6\prac6\obj\Debug\net8.0\prac6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miron\source\repos\prac6\prac6\obj\Debug\net8.0\prac6.AssemblyInfoInputs.cache
+C:\Users\miron\source\repos\prac6\prac6\obj\Debug\net8.0\prac6.AssemblyInfo.cs
+C:\Users\miron\source\repos\prac6\prac6\obj\Debug\net8.0\prac6.csproj.CoreCompileInputs.cache
+C:\Users\miron\source\repos\prac6\prac6\bin\Debug\net8.0\prac6.exe
+C:\Users\miron\source\repos\prac6\prac6\bin\Debug\net8.0\prac6.deps.json
+C:\Users\miron\source\repos\prac6\prac6\bin\Debug\net8.0\prac6.runtimeconfig.json
+C:\Users\miron\source\repos\prac6\prac6\bin\Debug\net8.0\prac6.dll
+C:\Users\miron\source\repos\prac6\prac6\bin\Debug\net8.0\prac6.pdb
+C:\Users\miron\source\repos\prac6\prac6\obj\Debug\net8.0\prac6.dll
+C:\Users\miron\source\repos\prac6\prac6\obj\Debug\net8.0\refint\prac6.dll
+C:\Users\miron\source\repos\prac6\prac6\obj\Debug\net8.0\prac6.pdb
+C:\Users\miron\source\repos\prac6\prac6\obj\Debug\net8.0\prac6.genruntimeconfig.cache
+C:\Users\miron\source\repos\prac6\prac6\obj\Debug\net8.0\ref\prac6.dll
